@@ -19,6 +19,6 @@ list.pop(1)
 print(list) 
 list.remove(100)
 print(list)
-f=["vishwa","neel","homelander","ass"]
+f=["vishwa","neel","homelander","deep"]
 print (f[1])
 print (f[2])
